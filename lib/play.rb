@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 
-def play
+def play(board)
   play = 0
   
 end
